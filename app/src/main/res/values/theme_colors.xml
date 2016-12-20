@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#fc6358</color>
+    <color name="colorAccent">#ff4d01</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="textColorPrimaryInverse">#f7f7f7</color>
+    <color name="textColorSecondaryInverse">#383838</color>
+    <color name="toolbarBackground">@color/colorPrimary</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="textAccent">#c25e5e</color>
+</resources>
