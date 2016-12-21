@@ -61,7 +61,7 @@ public class MultiTextManager {
         List<String> chips = new ArrayList<>();
         String[] split = textString.split(COMA);
         for (String filter : split) {
-            if (!TextUtils.isEmpty(filter.trim())) {
+            if (!TextUtils.isEmpty(filter.trim()) && !chips.contains(filter.trim())) {
                 chips.add(filter.trim());
             }
         }
