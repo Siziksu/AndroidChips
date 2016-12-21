@@ -1,6 +1,22 @@
 # Android Chips
 
-Example of Android Chips.
+Example of Android Chips in which you can select multiple Hollywood actors.
+
+## Which controls are used
+
+It uses a __MultiAutoCompleteTextView__ for the multi-selection and a custom __TextView__ (`ChipTextView`) for the `Chip` itself.
+
+## Chip options
+
+- Matt Damon
+- Nicolas Cage
+- Brad Pitt
+- Johnny Depp
+- George Clooney
+- Bruce Willis
+- Tom Cruise
+- Will Smith
+- Leonardo DiCaprio
 
 ## Screenshots
 
@@ -9,6 +25,7 @@ Example of Android Chips.
 ![Screenshot](art/device-2016-12-20-140650.png)
 
 ## License
+
     Copyright 2016 Esteban Latre
 
     Licensed under the Apache License, Version 2.0 (the "License");
